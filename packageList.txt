@@ -56,7 +56,7 @@ skymaps skymaps-02-17-00
 #pointlike pointlike-09-05-02
 dataSubselector dataSubselector-09-02-00
 evtbin evtbin-03-00-00
-evtUtils evtUtils-00-03-01
+# evtUtils evtUtils-00-03-01
 rspgen rspgen-03-02-03
 #burstFit burstFit-02-03-01
 map_tools map_tools-07-07-01
